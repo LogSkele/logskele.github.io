@@ -10,3 +10,7 @@ a:active {
 a:visited {
   color: rgb(0, 51, 153)
 }
+
+body {
+  font-family: Helvetica, sans-serif;
+}
