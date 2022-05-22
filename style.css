@@ -11,14 +11,11 @@ a:visited {
   color: rgb(0, 51, 153)
 }
 
-* {
-  font-family: Georgia, serif;
-}
-
 body {
+  font-family: Georgia, serif;
   background-color: white;
 }
-  
+
 .dark-mode {
   background-color: black;
   color: white;
