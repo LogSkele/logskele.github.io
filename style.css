@@ -13,9 +13,12 @@ a:visited {
 
 * {
   font-family: Georgia, serif;
-  background-color: white;
 }
 
+body {
+  background-color: white;
+}
+  
 .dark-mode {
   background-color: black;
   color: white;
