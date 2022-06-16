@@ -1,6 +1,8 @@
 body {
-  font-family: Helvetica, sans-serif;
-  background-color: white;
+  font-family: inherit;
+  background-color: rgb(129, 129, 129);
+  text-align: center;
+  color: whitesmoke;
 }
 
 a {
@@ -14,10 +16,4 @@ a:active {
 
 a:visited {
   color: rgb(0, 51, 153)
-}
-
-
-.dark-mode {
-  background-color: black;
-  color: white;
 }
